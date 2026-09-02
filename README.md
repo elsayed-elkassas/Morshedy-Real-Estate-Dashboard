@@ -62,6 +62,22 @@ The solution follows an enterprise-grade hierarchical structure:
 
 ---
 
+### 🏢 One Kattameya Compound 
+<p align="center">
+  <img src="One-Katameya-overall.png" alt="One Kattameya Overall" width="800px">
+</p>
+<p align="center">
+  <img src="one-katameya-bank.png" alt="One-Kattameya-Bank" width="800px">
+</p>
+<p align="center">
+  <img src="one-katameya-cash.png" alt="One-Kattameya-Cash" width="800px">
+</p>
+<p align="center">
+  <img src="one-katameya-bank-wise.png" alt="One-Kattameya-Bank-wise" width="800px">
+</p>
+
+---
+
 ### 🌊 Zahra North Coast Project 
 <p align="center">
   <img src="Zahraa-north-overall.png" alt="Zahra Overall" width="800px">
@@ -78,19 +94,6 @@ The solution follows an enterprise-grade hierarchical structure:
 
 ---
 
-### 🏢 One Kattameya Compound 
-<p align="center">
-  <img src="One-Katameya-overall.png" alt="One Kattameya Overall" width="800px">
-</p>
-<p align="center">
-  <img src="one-katameya-bank.png" alt="One-Kattameya-Bank" width="800px">
-</p>
-<p align="center">
-  <img src="one-katameya-cash.png" alt="One-Kattameya-Cash" width="800px">
-</p>
-<p align="center">
-  <img src="one-katameya-bank-wise.png" alt="One-Kattameya-Bank-wise" width="800px">
-</p>
 ## 👨‍💻 Author
 * **Developer / Data Analyst:** Elsayed Elkassas
 * **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/elsayed-elkassas-84686638a)
