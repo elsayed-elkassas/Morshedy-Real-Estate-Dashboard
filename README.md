@@ -47,21 +47,50 @@ The solution follows an enterprise-grade hierarchical structure:
 | **TOTAL / PORTFOLIO** | **73,943** | **3,088** | **4.18%** | **$13,879,027,300** | **$13,088,013,975** | **$791,013,325** |
 
 
-## 📷 Dashboard Previews
+## 📷 Complete Dashboard Gallery & Previews
 
-### Home Navigation Hub
-![Home Page](Assets/Home%20Page.png)
-
-### Global Summary Portfolio View
-![Global Summary](Assets/Global%20summary.png)
-
-### Business Projects Directory
-![Business Projects](Assets/Business%20Projects%20Page.png)
-
-### Project Level Analysis (One Kattameya - Bank View)
-![One Kattameya Bank](Assets/one-katameya-bank.png)
+### 🌍 General / Global Views 
+<p align="center">
+  <img src="Assets/Home Page.png" alt="Home Page" width="800px">
+</p>
+<p align="center">
+  <img src="Assets/Global summary.png" alt="Global Summary" width="800px">
+</p>
+<p align="center">
+  <img src="Assets/Business Projects Page.png" alt="Business Projects" width="800px">
+</p>
 
 ---
+
+### 🌊 Zahra North Coast Project 
+<p align="center">
+  <img src="Assets/Zahra-north-overall.png" alt="Zahra Overall" width="800px">
+</p>
+<p align="center">
+  <img src="Assets/Zahra-north-bank.png" alt="Zahra bank" width="800px">
+</p>
+<p align="center">
+  <img src="Assets/Zahra-north-bank-wise.png" alt="Zahra bank-wise" width="800px">
+</p>
+<p align="center">
+  <img src="Assets/Zahra-north-cash.png" alt="Zahra cash" width="800px">
+</p>
+
+---
+
+### 🏢 One Kattameya Compound 
+<p align="center">
+  <img src="Assets/One-Kattameya-overall.png" alt="One Kattameya Overall" width="800px">
+</p>
+<p align="center">
+  <img src="Assets/one-katameya-bank.png" alt="One-Kattameya-Bank" width="800px">
+</p>
+<p align="center">
+  <img src="Assets/one-kattameya-cash.png" alt="One-Kattameya-Cash" width="800px">
+</p>
+<p align="center">
+  <img src="Assets/one-kattameya-Bank-wise.png" alt="One-Kattameya-Bank-wise" width="800px">
+</p>
 
 ## 👨‍💻 Author
 * **Developer / Data Analyst:** Elsayed Elkassas
