@@ -51,47 +51,46 @@ The solution follows an enterprise-grade hierarchical structure:
 
 ### 🌍 General / Global Views 
 <p align="center">
-  <img src="Assets/Home Page.png" alt="Home Page" width="800px">
+  <img src="Home Page.png" alt="Home Page" width="800px">
 </p>
 <p align="center">
-  <img src="Assets/Global summary.png" alt="Global Summary" width="800px">
+  <img src="Global summary.png" alt="Global Summary" width="800px">
 </p>
 <p align="center">
-  <img src="Assets/Business Projects Page.png" alt="Business Projects" width="800px">
+  <img src="Business Projects Page.png" alt="Business Projects" width="800px">
 </p>
 
 ---
 
 ### 🌊 Zahra North Coast Project 
 <p align="center">
-  <img src="Assets/Zahra-north-overall.png" alt="Zahra Overall" width="800px">
+  <img src="Zahraa-north-overall.png" alt="Zahra Overall" width="800px">
 </p>
 <p align="center">
-  <img src="Assets/Zahra-north-bank.png" alt="Zahra bank" width="800px">
+  <img src="zhraa-north-Bank.png" alt="Zahra bank" width="800px">
 </p>
 <p align="center">
-  <img src="Assets/Zahra-north-bank-wise.png" alt="Zahra bank-wise" width="800px">
+  <img src="zhraa-north-Bank-wise.png" alt="Zahra bank-wise" width="800px">
 </p>
 <p align="center">
-  <img src="Assets/Zahra-north-cash.png" alt="Zahra cash" width="800px">
+  <img src="zhraa-north-cash.png" alt="Zahra cash" width="800px">
 </p>
 
 ---
 
 ### 🏢 One Kattameya Compound 
 <p align="center">
-  <img src="Assets/One-Kattameya-overall.png" alt="One Kattameya Overall" width="800px">
+  <img src="One-Katameya-overall.png" alt="One Kattameya Overall" width="800px">
 </p>
 <p align="center">
-  <img src="Assets/one-katameya-bank.png" alt="One-Kattameya-Bank" width="800px">
+  <img src="one-katameya-bank.png" alt="One-Kattameya-Bank" width="800px">
 </p>
 <p align="center">
-  <img src="Assets/one-kattameya-cash.png" alt="One-Kattameya-Cash" width="800px">
+  <img src="one-katameya-cash.png" alt="One-Kattameya-Cash" width="800px">
 </p>
 <p align="center">
-  <img src="Assets/one-kattameya-Bank-wise.png" alt="One-Kattameya-Bank-wise" width="800px">
+  <img src="one-katameya-bank-wise.png" alt="One-Kattameya-Bank-wise" width="800px">
 </p>
-
 ## 👨‍💻 Author
 * **Developer / Data Analyst:** Elsayed Elkassas
 * **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/elsayed-elkassas-84686638a)
