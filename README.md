@@ -96,4 +96,4 @@ The solution follows an enterprise-grade hierarchical structure:
 
 ## 👨‍💻 Author
 * **Developer / Data Analyst:** Elsayed Elkassas
-* **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/elsayed-elkassas-84686638a)
+* **LinkedIn:** * [LinkedIn](https://www.linkedin.com/in/elsayed-elkassas-84686638a)
